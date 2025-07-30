@@ -5,7 +5,7 @@
 ### **1. Clone Repository**
 
 ```sh
-git clone https://github.com/ridwanam9/IndividualTestBrief_Backend.git
+git clone https://github.com/ridwanam9/ticket-api-builder-backend.git
 cd IndividualTestBrief_Backend
 ```
 
